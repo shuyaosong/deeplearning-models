@@ -1,4 +1,5 @@
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
+* 威斯康辛大学麦迪逊分校统计学助理教授、机器学习和深度学习研究者 Sabastian Raschka 在 GitHub 上创建了一个项目，包含大量深度学习架构、模型和 tips。除了模型，该项目还介绍了一些模型训练的技巧和窍门。该项目的最后介绍了 PyTorch 和 TensorFlow 的工作流和机制，涉及数据集、训练和预处理等内容。
 * 该项目的目录如下：传统机器学习、多层感知机、卷积神经网络（CNN)、度量学习（Metric Learning）、自编码器、生成对抗网络（GAN）、循环神经网络（RNN）、有序回归、技巧和窍门、PyTorch 工作流和机制、TensorFlow 工作流和机制
 
 # Deep Learning Models
