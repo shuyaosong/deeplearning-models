@@ -1,4 +1,16 @@
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
+* 该项目的目录如下：
+传统机器学习
+多层感知机
+卷积神经网络（CNN)
+度量学习（Metric Learning）
+自编码器
+生成对抗网络（GAN）
+循环神经网络（RNN）
+有序回归
+技巧和窍门
+PyTorch 工作流和机制
+TensorFlow 工作流和机制
 
 # Deep Learning Models
 
